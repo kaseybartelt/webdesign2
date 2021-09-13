@@ -20,7 +20,7 @@ img {
 }
 
 p {
-    font-family: baskerville;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #EDAFB8;
     margin: 10px;
     font-size: 25px;
@@ -46,7 +46,7 @@ h2 { /*subtitle*/
 a { /*Assignment link designs*/
     color: lightslategray;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     margin-left: 50px;
   
